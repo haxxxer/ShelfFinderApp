@@ -34,8 +34,6 @@ export class SecondQuestionPage {
     });
   }
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad SecondQuestionPage');
-  }
+
 
 }
